@@ -22,4 +22,4 @@ This is a web-based signature application where users can draw their signatures 
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/amitkumarmadina/Online-Signature-App
